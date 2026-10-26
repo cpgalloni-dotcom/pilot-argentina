@@ -33,7 +33,7 @@ export const PACKS = [
     precio:"$280.000", detallePrecio:"+ % sobre saldo recuperado",
     mensaje:"Hola Cra. Alejandra, creo que pagué impuestos de más en los últimos años y quiero solicitar la revisión para el recupero (Pack 3)." },
   { id:4, grupo:"optimizacion", icono:"percent", categoria:"Planificación Estratégica",
-    titulo:"Quiero pagar menos el año que viene", subtitulo:"Decisiones impositivas bien planificadas: inversiones, deducciones y flujo financiero",
+    titulo:"Quiero pagar menos el año que viene", subtitulo:"",
     entregable:"Planificación fiscal dentro del marco legal. Decisiones óptimas sobre inversiones, deducciones y flujo financiero.",
     precio:"$350.000 / mes", detallePrecio:"Abono asesoría",
     mensaje:"Hola Cra. Alejandra, quiero ordenar mi negocio para pagar menos impuestos de forma legal el próximo año (Pack 4)." },
