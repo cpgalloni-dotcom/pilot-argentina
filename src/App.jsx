@@ -111,7 +111,7 @@ export default function App() {
             </span>
           </a>
           <nav className="links" aria-label="Secciones">
-            <a href="#packs">Packs</a><a href="#como">Cómo trabajo</a><a href="#contacto">Contacto</a><a href="#legal">Aviso legal</a>
+            <a href="#packs">Packs</a><a href="#sobre-mi">Sobre mí</a><a href="#como">Cómo trabajo</a><a href="#contacto">Contacto</a><a href="#legal">Aviso legal</a>
           </nav>
           <div className="pro">
             <img src="foto-alejandra.jpg" alt="Cra. Alejandra Galloni" width="56" height="56" />
@@ -141,6 +141,20 @@ export default function App() {
           <div className="trust">
             <span>Matrícula T° 371 F° 227 · CPCECABA</span><span>Respuesta en 24 hs</span><span>Atención por WhatsApp</span>
           </div>
+
+          <section id="sobre-mi">
+            <div className="about">
+              <img src="foto-alejandra.jpg" alt="Cra. Alejandra Galloni" width="120" height="120" />
+              <div>
+                <h2>Sobre mí</h2>
+                <p>Soy Alejandra Galloni, Contadora Pública egresada de la Universidad Católica de Salta (2010) y matriculada en el CPCECABA. Hace más de 10 años trabajo en estudios contables de la Ciudad de Buenos Aires liquidando impuestos, armando balances y respondiendo requerimientos de ARCA para empresas y personas.</p>
+                <ul className="creds">
+                  <li>Diplomatura en Estrategia y Planificación Empresarial para Pymes (FCE-UBA, 2026).</li>
+                </ul>
+                <a className="li" href="https://www.linkedin.com/in/alejandra-galloni-de-folco-2a297a160/" target="_blank" rel="noopener noreferrer">Ver mi perfil en LinkedIn →</a>
+              </div>
+            </div>
+          </section>
 
           <section id="como">
             <div className="sec-head"><div><h2>Cómo trabajo con Adri</h2></div></div>
@@ -185,7 +199,7 @@ export default function App() {
           </div>
           <div>
             <h4>Sitio</h4>
-            <ul><li><a href="#packs">Packs y honorarios</a></li><li><a href="#como">Cómo trabajo</a></li><li><a href="#legal">Aviso legal</a></li></ul>
+            <ul><li><a href="#packs">Packs y honorarios</a></li><li><a href="#sobre-mi">Sobre mí</a></li><li><a href="#como">Cómo trabajo</a></li><li><a href="#legal">Aviso legal</a></li></ul>
           </div>
           <div>
             <h4>Soporte</h4>
