@@ -1,7 +1,9 @@
 # PILOT ARGENTINA
 
 Web de la Cra. Alejandra Galloni, Contadora Pública (T° 371 F° 227 · CPCECABA).
-Hecha con React + Vite. Se publica sola en GitHub Pages cada vez que se sube un cambio a `main`.
+Hecha con React + Vite. Se publica en **Railway**: cada vez que se sube un cambio a `main` en GitHub, Railway vuelve a armar la web sola.
+
+En Railway: comando de build `npm run build`, comando de inicio `npm start`.
 
 ## Cambiar textos, packs o precios
 
